@@ -1,0 +1,15 @@
+C:\Users\aless\source\repos\CalculaMediaNotas\CalculaMediaNotas\bin\Debug\net6.0\CalculaMediaNotas.exe
+C:\Users\aless\source\repos\CalculaMediaNotas\CalculaMediaNotas\bin\Debug\net6.0\CalculaMediaNotas.deps.json
+C:\Users\aless\source\repos\CalculaMediaNotas\CalculaMediaNotas\bin\Debug\net6.0\CalculaMediaNotas.runtimeconfig.json
+C:\Users\aless\source\repos\CalculaMediaNotas\CalculaMediaNotas\bin\Debug\net6.0\CalculaMediaNotas.dll
+C:\Users\aless\source\repos\CalculaMediaNotas\CalculaMediaNotas\bin\Debug\net6.0\CalculaMediaNotas.pdb
+C:\Users\aless\source\repos\CalculaMediaNotas\CalculaMediaNotas\obj\Debug\net6.0\CalculaMediaNotas.csproj.AssemblyReference.cache
+C:\Users\aless\source\repos\CalculaMediaNotas\CalculaMediaNotas\obj\Debug\net6.0\CalculaMediaNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\source\repos\CalculaMediaNotas\CalculaMediaNotas\obj\Debug\net6.0\CalculaMediaNotas.AssemblyInfoInputs.cache
+C:\Users\aless\source\repos\CalculaMediaNotas\CalculaMediaNotas\obj\Debug\net6.0\CalculaMediaNotas.AssemblyInfo.cs
+C:\Users\aless\source\repos\CalculaMediaNotas\CalculaMediaNotas\obj\Debug\net6.0\CalculaMediaNotas.csproj.CoreCompileInputs.cache
+C:\Users\aless\source\repos\CalculaMediaNotas\CalculaMediaNotas\obj\Debug\net6.0\CalculaMediaNotas.dll
+C:\Users\aless\source\repos\CalculaMediaNotas\CalculaMediaNotas\obj\Debug\net6.0\refint\CalculaMediaNotas.dll
+C:\Users\aless\source\repos\CalculaMediaNotas\CalculaMediaNotas\obj\Debug\net6.0\CalculaMediaNotas.pdb
+C:\Users\aless\source\repos\CalculaMediaNotas\CalculaMediaNotas\obj\Debug\net6.0\CalculaMediaNotas.genruntimeconfig.cache
+C:\Users\aless\source\repos\CalculaMediaNotas\CalculaMediaNotas\obj\Debug\net6.0\ref\CalculaMediaNotas.dll
